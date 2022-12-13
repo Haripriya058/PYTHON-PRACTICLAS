@@ -1,2 +1,2 @@
-# PYTHON-PRACTICLAS
-Here, In this repository all the python practicals are solved from Delhi university, 3rd semester
+# PYTHON-PRACTICALS
+This repo contains all the practical questions of PROGRAMMING IN PYTHON.
